@@ -47,4 +47,5 @@ The quickstart simply prints the response and points to the API reference for th
 
 Tavily answers "what is on the web about this". It does not make pictures, clips or audio. When the step after retrieval is generation - a hero image for the article your agent just researched, a short video from a script, a voiceover - [try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=tavily-api-key-examples&utm_content=readme-top&utm_term=tier-r). The pattern is the same as these scripts: one key in an environment variable, one client, one call.
 
+
 _Last reviewed: 2026-09-22_
